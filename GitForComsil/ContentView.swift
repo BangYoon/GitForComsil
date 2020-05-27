@@ -12,6 +12,7 @@ struct ContentView: View {
     var body: some View {
         Text("Hello, World!")
 	Text("It's branch 1")
+	Text("It's branch 2")
     }
 }
 
